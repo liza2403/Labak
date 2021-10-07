@@ -10,7 +10,8 @@ class Calculator
        
 
         int Mul (double, double);
-
+        int DilMUl (double, double);
+	
 };
 
 #endif//CALCULATOR_H
